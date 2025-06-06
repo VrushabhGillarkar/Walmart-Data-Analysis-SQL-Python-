@@ -1,7 +1,7 @@
 **Walmart Data Analysis: SQL + Python Project**
 
 **Project Overview**
-![Alt text]()
+![Alt text](walmart_project-piplelines.png)
 
 
 
