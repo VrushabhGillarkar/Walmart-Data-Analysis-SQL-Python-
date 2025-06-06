@@ -1,6 +1,7 @@
 **Walmart Data Analysis: SQL + Python Project**
 
 **Project Overview**
+![Alt text]()
 
 
 
